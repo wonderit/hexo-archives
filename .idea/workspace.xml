@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85329803-30cb-4aad-ba66-07d265bca72e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/icarus/_config.yml.example" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insight</find>
+      <find>highlight</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../PurePeople/20160703_edison/edison-kakao" value="2935141061000" />
+        <entry key="$PROJECT_DIR$/../../../PurePeople/spring-social/spring-boot-social-example-master" value="2876010212000" />
+        <entry key="$PROJECT_DIR$/../../../koreaUniv/noonting/java/noonting-server-api" value="1459769709000" />
+        <entry key="$PROJECT_DIR$/../../../koreaUniv/noonting/java/server-admin" value="1461066551000" />
+        <entry key="$PROJECT_DIR$/../../../koreaUniv/noonting/java/skeleton-ws-spring-boot" value="1458900583000" />
+        <entry key="$PROJECT_DIR$/../../../koreaUniv/noonting/ng/noonting.admin" value="1452762205000" />
+        <entry key="$PROJECT_DIR$/../../bk/20160204" value="1454580997000" />
+        <entry key="$PROJECT_DIR$/../../spring/gs-rest-service-master/complete" value="1440474420000" />
+        <entry key="$PROJECT_DIR$/../../spring/gs-serving-web-content/complete" value="1445320591000" />
+        <entry key="$PROJECT_DIR$/../../spring/newbaeminpg/com.baemin.pg.client" value="1448535385000" />
+        <entry key="$PROJECT_DIR$/../../spring/newbaeminpg/korea" value="1452472311000" />
+        <entry key="$PROJECT_DIR$/../../spring/newbaeminpg/spring-oauth-example" value="7262469895000" />
+        <entry key="$PROJECT_DIR$/../../spring/spring-baemin-pg" value="1444751386000" />
+        <entry key="$PROJECT_DIR$/../../spring/spring-baemin-test" value="1445319390000" />
+        <entry key="$PROJECT_DIR$/../../spring/springSkeleton" value="1444789601000" />
+        <entry key="$PROJECT_DIR$/../../../woowa/5.baeminpg/baeminpg2016/com.baemin.pg" value="1452759331000" />
+        <entry key="$PROJECT_DIR$/../../../woowa/5.baeminpg/baeminpg2016/com.baemin.pg.oauth" value="1452759383000" />
+        <entry key="$PROJECT_DIR$/../../../woowa/5.baeminpg/baeminpg2016/test/baeminpg-admin" value="1453264255000" />
+        <entry key="$PROJECT_DIR$/../../../woowa/5.baeminpg/baeminpg2016/test/baeminpg-oauth" value="1453264182000" />
+        <entry key="$PROJECT_DIR$/../../../woowa/baeminwebservice/spring-baemin-rider" value="1447495522000" />
+        <entry key="$USER_HOME$/Downloads/wonderit-baeminpg-2fbdf1165f38/spring-baemin-pg" value="1445961502000" />
+        <entry key="$USER_HOME$/git_wonder/wonderBot" value="1490710443000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/icarus/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="372" />
+    <option name="width" value="1480" />
+    <option name="height" value="1013" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Mathematica</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Probable ErrorsMathematica</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wonderit-hexo-archives" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wonderit-hexo-archives" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="avatar&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/avatar.png&#10;logo&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/logo.png" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/icarus/source/css/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85329803-30cb-4aad-ba66-07d265bca72e" name="Default" comment="" />
+      <created>1507693422080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507693422080</updated>
+      <workItem from="1507693427137" duration="1689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="372" width="1680" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.502442" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.497558" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18864469" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/icarus/source/css/_highlight/color-brewer.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+          <folding>
+            <marker date="1507694105308" expanded="true" signature="128:132" ph="Hexo" />
+            <marker date="1507694105308" expanded="true" signature="164:172" ph="John Doe" />
+            <marker date="1507694105308" expanded="true" signature="308:327" ph="http://yoursite.com" />
+            <marker date="1507694105308" expanded="true" signature="347:372" ph=":year/:mo…ay/:title/" />
+            <marker date="1507694105308" expanded="true" signature="418:424" ph="source" />
+            <marker date="1507694105308" expanded="true" signature="437:443" ph="public" />
+            <marker date="1507694105308" expanded="true" signature="453:457" ph="tags" />
+            <marker date="1507694105308" expanded="true" signature="471:479" ph="archives" />
+            <marker date="1507694105308" expanded="true" signature="494:504" ph="categories" />
+            <marker date="1507694105308" expanded="true" signature="515:529" ph="downloads/code" />
+            <marker date="1507694105308" expanded="true" signature="540:545" ph=":lang" />
+            <marker date="1507694105308" expanded="true" signature="585:594" ph=":title.md" />
+            <marker date="1507694105308" expanded="true" signature="636:640" ph="post" />
+            <marker date="1507694105308" expanded="true" signature="652:657" ph="false" />
+            <marker date="1507694105308" expanded="true" signature="706:710" ph="true" />
+            <marker date="1507694105308" expanded="true" signature="776:781" ph="false" />
+            <marker date="1507694105308" expanded="true" signature="801:806" ph="false" />
+            <marker date="1507694105308" expanded="true" signature="822:827" ph="false" />
+            <marker date="1507694105308" expanded="true" signature="836:840" ph="true" />
+            <marker date="1507694105308" expanded="true" signature="841:922" ph="highlight: &lt;4 keys&gt;" />
+            <marker date="1507694105308" expanded="true" signature="862:866" ph="true" />
+            <marker date="1507694105308" expanded="true" signature="882:886" ph="true" />
+            <marker date="1507694105308" expanded="true" signature="902:907" ph="false" />
+            <marker date="1507694105308" expanded="true" signature="1132:1192" ph="index_generator: &lt;3 keys&gt;" />
+            <marker date="1507694105308" expanded="true" signature="1157:1159" ph="" />
+            <marker date="1507694105308" expanded="true" signature="1172:1174" ph="10" />
+            <marker date="1507694105308" expanded="true" signature="1187:1192" ph="-date" />
+            <marker date="1507694105308" expanded="true" signature="1231:1244" ph="uncategorized" />
+            <marker date="1507694105308" expanded="true" signature="1452:1462" ph="YYYY-MM-DD" />
+            <marker date="1507694105308" expanded="true" signature="1476:1484" ph="HH:mm:ss" />
+            <marker date="1507694105308" expanded="true" signature="1552:1554" ph="10" />
+            <marker date="1507694105308" expanded="true" signature="1571:1575" ph="page" />
+            <marker date="1507694105308" expanded="true" signature="1669:1675" ph="icarus" />
+            <marker date="1507694105308" expanded="true" signature="1736:1827" ph="deploy: &lt;3 keys&gt;" />
+            <marker date="1507694105308" expanded="true" signature="1752:1755" ph="git" />
+            <marker date="1507694105308" expanded="true" signature="1764:1810" ph="https://g….github.io" />
+            <marker date="1507694105308" expanded="true" signature="1821:1827" ph="master" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/icarus/source/css/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/icarus/source/css/images/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/icarus/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <marker date="1507695182965" expanded="true" signature="8:97" ph="menu: &lt;5 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="36:44" ph="archives" />
+            <marker date="1507695182965" expanded="true" signature="59:69" ph="categories" />
+            <marker date="1507695182965" expanded="true" signature="78:82" ph="tags" />
+            <marker date="1507695182965" expanded="true" signature="92:97" ph="about" />
+            <marker date="1507695182965" expanded="true" signature="111:951" ph="customize: &lt;8 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="126:219" ph="logo: &lt;4 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="149:153" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="169:171" ph="40" />
+            <marker date="1507695182965" expanded="true" signature="188:190" ph="40" />
+            <marker date="1507695182965" expanded="true" signature="204:219" ph="images/logo.png" />
+            <marker date="1507695182965" expanded="true" signature="224:586" ph="profile: &lt;7 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="250:254" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="301:331" ph="css/image…circle.png" />
+            <marker date="1507695182965" expanded="true" signature="453:461" ph="WonderIT" />
+            <marker date="1507695182965" expanded="true" signature="484:510" ph="Web Devel…Researcher" />
+            <marker date="1507695182965" expanded="true" signature="529:541" ph="Seoul, Korea" />
+            <marker date="1507695182965" expanded="true" signature="558:586" ph="https://g…/wonderit/" />
+            <marker date="1507695182965" expanded="true" signature="602:609" ph="monokai" />
+            <marker date="1507695182965" expanded="true" signature="623:628" ph="right" />
+            <marker date="1507695182965" expanded="true" signature="703:707" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="790:921" ph="social_links: &lt;5 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="820:847" ph="http://gi…/wonderit/" />
+            <marker date="1507695182965" expanded="true" signature="947:951" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="1018:1111" ph="widgets: &lt;6 items&gt;" />
+            <marker date="1507695182965" expanded="true" signature="1033:1045" ph="recent_posts" />
+            <marker date="1507695182965" expanded="true" signature="1052:1060" ph="category" />
+            <marker date="1507695182965" expanded="true" signature="1067:1074" ph="archive" />
+            <marker date="1507695182965" expanded="true" signature="1081:1084" ph="tag" />
+            <marker date="1507695182965" expanded="true" signature="1091:1099" ph="tagcloud" />
+            <marker date="1507695182965" expanded="true" signature="1106:1111" ph="links" />
+            <marker date="1507695182965" expanded="true" signature="1122:1292" ph="search: &lt;3 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="1143:1147" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="1287:1292" ph="false" />
+            <marker date="1507695182965" expanded="true" signature="1389:2549" ph="comment: &lt;9 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="1653:1737" ph="changyan: &lt;2 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="1742:1971" ph="gitment: &lt;4 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="2032:2549" ph="valine: &lt;6 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="2539:2549" ph="Just Do It" />
+            <marker date="1507695182965" expanded="true" signature="2607:2614" ph="default" />
+            <marker date="1507695182965" expanded="true" signature="2673:2990" ph="plugins: &lt;6 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="2700:2704" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="2750:2754" ph="true" />
+            <marker date="1507695182965" expanded="true" signature="2985:2990" ph="false" />
+            <marker date="1507695182965" expanded="true" signature="3031:3200" ph="miscellaneous: &lt;2 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="3050:3160" ph="open_graph: &lt;4 keys&gt;" />
+            <marker date="1507695182965" expanded="true" signature="3165:3200" ph="links: &lt;1 key&gt;" />
+            <marker date="1507695182965" expanded="true" signature="3186:3200" ph="http://hexo.io" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
