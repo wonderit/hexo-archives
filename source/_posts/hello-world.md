@@ -3,47 +3,19 @@ title: Hello World
 date: 2017-10-11
 categories: 
     - Web
-    - [Hexo, Github Pages]
+    - Hexo
     - Icarus
-    
 tags:
     - Hexo
     - Icarus
     - Github Pages
+thumbnail: /images/logo_icarus.png
 ---
-Hexo, Github Pages를 이용해서 블로그를 새로 만들었습니다.
 
+![](/images/logo_icarus.png "")
 
-## Quick Start
+[Hexo](https://hexo.io/), [Github Pages](https://pages.github.com/)를 이용해서 블로그를 새로 만들었습니다.
 
-### Create a new post
+테마는 [Icarus](https://github.com/ppoffice/hexo-theme-icarus)를 수정해서 적용했습니다
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+자세한 구축 방법은 추후에 포스팅 할 예정입니다.
