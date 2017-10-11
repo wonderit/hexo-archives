@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wonderit-hexo-archives.iml" filepath="$PROJECT_DIR$/.idea/wonderit-hexo-archives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hexo-archives.iml" filepath="$PROJECT_DIR$/.idea/hexo-archives.iml" />
     </modules>
   </component>
 </project>
