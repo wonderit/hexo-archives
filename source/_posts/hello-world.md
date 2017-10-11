@@ -1,7 +1,18 @@
 ---
 title: Hello World
+date: 2017-10-11
+categories: 
+    - Web
+    - [Hexo, Github Pages]
+    - Icarus
+    
+tags:
+    - Hexo
+    - Icarus
+    - Github Pages
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Hexo, Github Pages를 이용해서 블로그를 새로 만들었습니다.
+
 
 ## Quick Start
 
