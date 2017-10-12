@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="572">
+              <caret line="99" column="6" lean-forward="false" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -59,6 +59,7 @@
       <find>logo_wond</find>
       <find>wonderit.png</find>
       <find>meta</find>
+      <find>google</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,8 +109,8 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
-        <option value="$PROJECT_DIR$/themes/icarus/_config.yml" />
         <option value="$PROJECT_DIR$/themes/icarus/layout/common/head.ejs" />
+        <option value="$PROJECT_DIR$/themes/icarus/_config.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -269,7 +270,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="sitemap.xml&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/public/sitemap.xml&#10;head.ejs&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/layout/common/header.ejs&#10;world&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/source/_posts/hello-world.md&#10;post&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/scaffolds/post.md&#10;hellowo&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/source/_posts/hello-world.md&#10;workspace&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/.idea/workspace.xml&#10;categories&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/layout/categories.ejs&#10;config&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/_config.yml&#10;con&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/_config.yml&#10;_config&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/_config.yml&#10;avatar&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/avatar.png&#10;logo&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/logo.png" />
+    <property name="SearchEverywhereHistoryKey" value="google&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/layout/plugin/google-analytics.ejs&#10;sitemap.xml&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/public/sitemap.xml&#10;head.ejs&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/layout/common/header.ejs&#10;world&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/source/_posts/hello-world.md&#10;post&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/scaffolds/post.md&#10;hellowo&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/source/_posts/hello-world.md&#10;workspace&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/.idea/workspace.xml&#10;categories&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/layout/categories.ejs&#10;config&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/_config.yml&#10;con&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/_config.yml&#10;_config&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/themes/icarus/_config.yml&#10;avatar&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/avatar.png&#10;logo&#9;FILE&#9;file:///Users/kimwonsuk/Desktop/wonderit/blog/wonderit-hexo-archives/themes/icarus/source/css/images/logo.png" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/themes/icarus/_config.yml&#10;true&#10;/Users/kimwonsuk/Desktop/wonderit/blog/hexo-archives/public/categories/cate1/cate2/index.html" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -505,11 +506,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19291000" />
+    <option name="totallyTimeSpent" value="19957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.504884" order="7" side_tool="true" content_ui="tabs" />
@@ -531,7 +531,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.495116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.495116" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17399268" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -605,11 +605,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/icarus/source/css/images/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/icarus/source/css/images/wonderit.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -625,58 +620,60 @@
         <state relative-caret-position="482">
           <caret line="95" column="43" lean-forward="true" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
           <folding>
-            <marker date="1507776532252" expanded="true" signature="8:124" ph="menu: &lt;5 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="36:44" ph="archives" />
-            <marker date="1507776532252" expanded="true" signature="59:69" ph="categories" />
-            <marker date="1507776532252" expanded="true" signature="78:82" ph="tags" />
-            <marker date="1507776532252" expanded="true" signature="92:124" ph="http://ww….kr/##about" />
-            <marker date="1507776532252" expanded="true" signature="138:1120" ph="customize: &lt;8 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="153:255" ph="logo: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="176:180" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="196:198" ph="40" />
-            <marker date="1507776532252" expanded="true" signature="215:217" ph="40" />
-            <marker date="1507776532252" expanded="true" signature="231:255" ph="images/lo…nderit.png" />
-            <marker date="1507776532252" expanded="true" signature="260:622" ph="profile: &lt;7 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="286:290" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="337:367" ph="css/image…circle.png" />
-            <marker date="1507776532252" expanded="true" signature="489:497" ph="WonderIT" />
-            <marker date="1507776532252" expanded="true" signature="520:546" ph="Web Devel…Researcher" />
-            <marker date="1507776532252" expanded="true" signature="565:577" ph="Seoul, Korea" />
-            <marker date="1507776532252" expanded="true" signature="594:622" ph="https://g…/wonderit/" />
-            <marker date="1507776532252" expanded="true" signature="638:651" ph="androidstudio" />
-            <marker date="1507776532252" expanded="true" signature="675:680" ph="right" />
-            <marker date="1507776532252" expanded="true" signature="755:759" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="820:842" ph="css/image…avicon.ico" />
-            <marker date="1507776532252" expanded="true" signature="865:1090" ph="social_links: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="895:922" ph="http://gi…/wonderit/" />
-            <marker date="1507776532252" expanded="true" signature="941:972" ph="https://w…com/won425" />
-            <marker date="1507776532252" expanded="true" signature="992:1024" ph="https://w…com/won425" />
-            <marker date="1507776532252" expanded="true" signature="1043:1090" ph="https://w…m-019104b9" />
-            <marker date="1507776532252" expanded="true" signature="1116:1120" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="1187:1281" ph="widgets: &lt;5 items&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1202:1214" ph="recent_posts" />
-            <marker date="1507776532252" expanded="true" signature="1221:1229" ph="category" />
-            <marker date="1507776532252" expanded="true" signature="1236:1243" ph="archive" />
-            <marker date="1507776532252" expanded="true" signature="1261:1269" ph="tagcloud" />
-            <marker date="1507776532252" expanded="true" signature="1276:1281" ph="links" />
-            <marker date="1507776532252" expanded="true" signature="1292:1462" ph="search: &lt;3 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1313:1317" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="1457:1462" ph="false" />
-            <marker date="1507776532252" expanded="true" signature="1559:2728" ph="comment: &lt;9 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1580:1589" ph="wonder-it" />
-            <marker date="1507776532252" expanded="true" signature="1832:1916" ph="changyan: &lt;2 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1921:2150" ph="gitment: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2211:2728" ph="valine: &lt;6 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2718:2728" ph="Just Do It" />
-            <marker date="1507776532252" expanded="true" signature="2786:2793" ph="default" />
-            <marker date="1507776532252" expanded="true" signature="2852:3169" ph="plugins: &lt;6 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2879:2883" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="2929:2933" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="3164:3169" ph="false" />
-            <marker date="1507776532252" expanded="true" signature="3210:3394" ph="miscellaneous: &lt;2 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3229:3339" ph="open_graph: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3344:3394" ph="links: &lt;1 key&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3369:3394" ph="http://ww…erit.co.kr" />
+            <marker date="1507778284127" expanded="true" signature="8:124" ph="menu: &lt;5 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="36:44" ph="archives" />
+            <marker date="1507778284127" expanded="true" signature="59:69" ph="categories" />
+            <marker date="1507778284127" expanded="true" signature="78:82" ph="tags" />
+            <marker date="1507778284127" expanded="true" signature="92:124" ph="http://ww….kr/##about" />
+            <marker date="1507778284127" expanded="true" signature="138:1120" ph="customize: &lt;8 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="153:255" ph="logo: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="176:180" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="196:198" ph="40" />
+            <marker date="1507778284127" expanded="true" signature="215:217" ph="40" />
+            <marker date="1507778284127" expanded="true" signature="231:255" ph="images/lo…nderit.png" />
+            <marker date="1507778284127" expanded="true" signature="260:622" ph="profile: &lt;7 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="286:290" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="337:367" ph="css/image…circle.png" />
+            <marker date="1507778284127" expanded="true" signature="489:497" ph="WonderIT" />
+            <marker date="1507778284127" expanded="true" signature="520:546" ph="Web Devel…Researcher" />
+            <marker date="1507778284127" expanded="true" signature="565:577" ph="Seoul, Korea" />
+            <marker date="1507778284127" expanded="true" signature="594:622" ph="https://g…/wonderit/" />
+            <marker date="1507778284127" expanded="true" signature="638:651" ph="androidstudio" />
+            <marker date="1507778284127" expanded="true" signature="675:680" ph="right" />
+            <marker date="1507778284127" expanded="true" signature="755:759" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="820:842" ph="css/image…avicon.ico" />
+            <marker date="1507778284127" expanded="true" signature="865:1090" ph="social_links: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="895:922" ph="http://gi…/wonderit/" />
+            <marker date="1507778284127" expanded="true" signature="941:972" ph="https://w…com/won425" />
+            <marker date="1507778284127" expanded="true" signature="992:1024" ph="https://w…com/won425" />
+            <marker date="1507778284127" expanded="true" signature="1043:1090" ph="https://w…m-019104b9" />
+            <marker date="1507778284127" expanded="true" signature="1116:1120" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="1187:1281" ph="widgets: &lt;5 items&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1202:1214" ph="recent_posts" />
+            <marker date="1507778284127" expanded="true" signature="1221:1229" ph="category" />
+            <marker date="1507778284127" expanded="true" signature="1236:1243" ph="archive" />
+            <marker date="1507778284127" expanded="true" signature="1261:1269" ph="tagcloud" />
+            <marker date="1507778284127" expanded="true" signature="1276:1281" ph="links" />
+            <marker date="1507778284127" expanded="true" signature="1292:1462" ph="search: &lt;3 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1313:1317" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="1457:1462" ph="false" />
+            <marker date="1507778284127" expanded="true" signature="1559:2728" ph="comment: &lt;9 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1580:1589" ph="wonder-it" />
+            <marker date="1507778284127" expanded="true" signature="1832:1916" ph="changyan: &lt;2 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1921:2150" ph="gitment: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2211:2728" ph="valine: &lt;6 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2718:2728" ph="Just Do It" />
+            <marker date="1507778284127" expanded="true" signature="2786:2793" ph="default" />
+            <marker date="1507778284127" expanded="true" signature="2852:3228" ph="plugins: &lt;6 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2879:2883" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="2929:2933" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="2979:2993" ph="UA-108007570-1" />
+            <marker date="1507778284127" expanded="true" signature="3074:3117" ph="WQU-Q_cW4…v6S1OHFSnk" />
+            <marker date="1507778284127" expanded="true" signature="3223:3228" ph="false" />
+            <marker date="1507778284127" expanded="true" signature="3269:3453" ph="miscellaneous: &lt;2 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3288:3398" ph="open_graph: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3403:3453" ph="links: &lt;1 key&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3428:3453" ph="http://ww…erit.co.kr" />
           </folding>
         </state>
       </provider>
@@ -685,54 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="88" column="26" lean-forward="true" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
-          <folding>
-            <marker date="1507777740724" expanded="true" signature="128:136" ph="WonderIT" />
-            <marker date="1507777740724" expanded="true" signature="147:161" ph="원더리의 IT Wonder" />
-            <marker date="1507777740724" expanded="true" signature="183:193" ph="Wonsuk Kim" />
-            <marker date="1507777740724" expanded="true" signature="204:206" ph="ko" />
-            <marker date="1507777740724" expanded="true" signature="332:357" ph="http://wo….github.io" />
-            <marker date="1507777740724" expanded="true" signature="377:402" ph=":year/:mo…ay/:title/" />
-            <marker date="1507777740724" expanded="true" signature="448:454" ph="source" />
-            <marker date="1507777740724" expanded="true" signature="467:473" ph="public" />
-            <marker date="1507777740724" expanded="true" signature="483:487" ph="tags" />
-            <marker date="1507777740724" expanded="true" signature="501:509" ph="archives" />
-            <marker date="1507777740724" expanded="true" signature="524:534" ph="categories" />
-            <marker date="1507777740724" expanded="true" signature="545:559" ph="downloads/code" />
-            <marker date="1507777740724" expanded="true" signature="570:575" ph=":lang" />
-            <marker date="1507777740724" expanded="true" signature="615:624" ph=":title.md" />
-            <marker date="1507777740724" expanded="true" signature="666:670" ph="post" />
-            <marker date="1507777740724" expanded="true" signature="682:687" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="736:740" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="806:811" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="831:835" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="851:856" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="865:869" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="870:951" ph="highlight: &lt;4 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="891:895" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="911:915" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="931:936" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="1161:1221" ph="index_generator: &lt;3 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1186:1188" ph="" />
-            <marker date="1507777740724" expanded="true" signature="1201:1203" ph="10" />
-            <marker date="1507777740724" expanded="true" signature="1216:1221" ph="-date" />
-            <marker date="1507777740724" expanded="true" signature="1260:1273" ph="uncategorized" />
-            <marker date="1507777740724" expanded="true" signature="1481:1491" ph="YYYY-MM-DD" />
-            <marker date="1507777740724" expanded="true" signature="1505:1513" ph="HH:mm:ss" />
-            <marker date="1507777740724" expanded="true" signature="1581:1583" ph="10" />
-            <marker date="1507777740724" expanded="true" signature="1600:1604" ph="page" />
-            <marker date="1507777740724" expanded="true" signature="1698:1704" ph="icarus" />
-            <marker date="1507777740724" expanded="true" signature="1765:1856" ph="deploy: &lt;3 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1781:1784" ph="git" />
-            <marker date="1507777740724" expanded="true" signature="1793:1839" ph="https://g….github.io" />
-            <marker date="1507777740724" expanded="true" signature="1850:1856" ph="master" />
-            <marker date="1507777740724" expanded="true" signature="1879:1966" ph="nofollow: &lt;2 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1899:1903" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="1906:1966" ph="exclude: &lt;2 items&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1921:1939" ph="www.wonderit.co.kr" />
-            <marker date="1507777740724" expanded="true" signature="1946:1966" ph="www.purepeople.co.kr" />
-            <marker date="1507777740724" expanded="true" signature="1993:2023" ph="sitemap: &lt;1 key&gt;" />
-            <marker date="1507777740724" expanded="true" signature="2012:2023" ph="sitemap.xml" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -993,9 +943,9 @@
         <state relative-caret-position="240">
           <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
-            <marker date="1507777717011" expanded="true" signature="0:652" ph="{&quot;name&quot;: &quot;hexo-site&quot;...}" />
-            <marker date="1507777717011" expanded="true" signature="76:104" ph="{&quot;version&quot;: &quot;3.3.9&quot;...}" />
-            <marker date="1507777717011" expanded="true" signature="124:650" ph="{&quot;hexo&quot;: &quot;^3.2.0&quot;...}" />
+            <marker date="1507778614455" expanded="true" signature="0:689" ph="{&quot;name&quot;: &quot;hexo-site&quot;...}" />
+            <marker date="1507778614455" expanded="true" signature="76:104" ph="{&quot;version&quot;: &quot;3.3.9&quot;...}" />
+            <marker date="1507778614455" expanded="true" signature="124:687" ph="{&quot;hexo&quot;: &quot;^3.2.0&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -1063,67 +1013,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/icarus/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="91" column="18" lean-forward="false" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-          <folding>
-            <marker date="1507776532252" expanded="true" signature="8:124" ph="menu: &lt;5 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="36:44" ph="archives" />
-            <marker date="1507776532252" expanded="true" signature="59:69" ph="categories" />
-            <marker date="1507776532252" expanded="true" signature="78:82" ph="tags" />
-            <marker date="1507776532252" expanded="true" signature="92:124" ph="http://ww….kr/##about" />
-            <marker date="1507776532252" expanded="true" signature="138:1120" ph="customize: &lt;8 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="153:255" ph="logo: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="176:180" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="196:198" ph="40" />
-            <marker date="1507776532252" expanded="true" signature="215:217" ph="40" />
-            <marker date="1507776532252" expanded="true" signature="231:255" ph="images/lo…nderit.png" />
-            <marker date="1507776532252" expanded="true" signature="260:622" ph="profile: &lt;7 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="286:290" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="337:367" ph="css/image…circle.png" />
-            <marker date="1507776532252" expanded="true" signature="489:497" ph="WonderIT" />
-            <marker date="1507776532252" expanded="true" signature="520:546" ph="Web Devel…Researcher" />
-            <marker date="1507776532252" expanded="true" signature="565:577" ph="Seoul, Korea" />
-            <marker date="1507776532252" expanded="true" signature="594:622" ph="https://g…/wonderit/" />
-            <marker date="1507776532252" expanded="true" signature="638:651" ph="androidstudio" />
-            <marker date="1507776532252" expanded="true" signature="675:680" ph="right" />
-            <marker date="1507776532252" expanded="true" signature="755:759" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="820:842" ph="css/image…avicon.ico" />
-            <marker date="1507776532252" expanded="true" signature="865:1090" ph="social_links: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="895:922" ph="http://gi…/wonderit/" />
-            <marker date="1507776532252" expanded="true" signature="941:972" ph="https://w…com/won425" />
-            <marker date="1507776532252" expanded="true" signature="992:1024" ph="https://w…com/won425" />
-            <marker date="1507776532252" expanded="true" signature="1043:1090" ph="https://w…m-019104b9" />
-            <marker date="1507776532252" expanded="true" signature="1116:1120" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="1187:1281" ph="widgets: &lt;5 items&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1202:1214" ph="recent_posts" />
-            <marker date="1507776532252" expanded="true" signature="1221:1229" ph="category" />
-            <marker date="1507776532252" expanded="true" signature="1236:1243" ph="archive" />
-            <marker date="1507776532252" expanded="true" signature="1261:1269" ph="tagcloud" />
-            <marker date="1507776532252" expanded="true" signature="1276:1281" ph="links" />
-            <marker date="1507776532252" expanded="true" signature="1292:1462" ph="search: &lt;3 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1313:1317" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="1457:1462" ph="false" />
-            <marker date="1507776532252" expanded="true" signature="1559:2728" ph="comment: &lt;9 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1580:1589" ph="wonder-it" />
-            <marker date="1507776532252" expanded="true" signature="1832:1916" ph="changyan: &lt;2 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="1921:2150" ph="gitment: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2211:2728" ph="valine: &lt;6 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2718:2728" ph="Just Do It" />
-            <marker date="1507776532252" expanded="true" signature="2786:2793" ph="default" />
-            <marker date="1507776532252" expanded="true" signature="2852:3169" ph="plugins: &lt;6 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="2879:2883" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="2929:2933" ph="true" />
-            <marker date="1507776532252" expanded="true" signature="3164:3169" ph="false" />
-            <marker date="1507776532252" expanded="true" signature="3210:3394" ph="miscellaneous: &lt;2 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3229:3339" ph="open_graph: &lt;4 keys&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3344:3394" ph="links: &lt;1 key&gt;" />
-            <marker date="1507776532252" expanded="true" signature="3369:3394" ph="http://ww…erit.co.kr" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/icarus/layout/common/header.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
@@ -1167,65 +1056,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="90" column="24" lean-forward="false" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
-            <marker date="1507777740724" expanded="true" signature="128:136" ph="WonderIT" />
-            <marker date="1507777740724" expanded="true" signature="147:161" ph="원더리의 IT Wonder" />
-            <marker date="1507777740724" expanded="true" signature="183:193" ph="Wonsuk Kim" />
-            <marker date="1507777740724" expanded="true" signature="204:206" ph="ko" />
-            <marker date="1507777740724" expanded="true" signature="332:357" ph="http://wo….github.io" />
-            <marker date="1507777740724" expanded="true" signature="377:402" ph=":year/:mo…ay/:title/" />
-            <marker date="1507777740724" expanded="true" signature="448:454" ph="source" />
-            <marker date="1507777740724" expanded="true" signature="467:473" ph="public" />
-            <marker date="1507777740724" expanded="true" signature="483:487" ph="tags" />
-            <marker date="1507777740724" expanded="true" signature="501:509" ph="archives" />
-            <marker date="1507777740724" expanded="true" signature="524:534" ph="categories" />
-            <marker date="1507777740724" expanded="true" signature="545:559" ph="downloads/code" />
-            <marker date="1507777740724" expanded="true" signature="570:575" ph=":lang" />
-            <marker date="1507777740724" expanded="true" signature="615:624" ph=":title.md" />
-            <marker date="1507777740724" expanded="true" signature="666:670" ph="post" />
-            <marker date="1507777740724" expanded="true" signature="682:687" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="736:740" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="806:811" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="831:835" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="851:856" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="865:869" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="870:951" ph="highlight: &lt;4 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="891:895" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="911:915" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="931:936" ph="false" />
-            <marker date="1507777740724" expanded="true" signature="1161:1221" ph="index_generator: &lt;3 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1186:1188" ph="" />
-            <marker date="1507777740724" expanded="true" signature="1201:1203" ph="10" />
-            <marker date="1507777740724" expanded="true" signature="1216:1221" ph="-date" />
-            <marker date="1507777740724" expanded="true" signature="1260:1273" ph="uncategorized" />
-            <marker date="1507777740724" expanded="true" signature="1481:1491" ph="YYYY-MM-DD" />
-            <marker date="1507777740724" expanded="true" signature="1505:1513" ph="HH:mm:ss" />
-            <marker date="1507777740724" expanded="true" signature="1581:1583" ph="10" />
-            <marker date="1507777740724" expanded="true" signature="1600:1604" ph="page" />
-            <marker date="1507777740724" expanded="true" signature="1698:1704" ph="icarus" />
-            <marker date="1507777740724" expanded="true" signature="1765:1856" ph="deploy: &lt;3 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1781:1784" ph="git" />
-            <marker date="1507777740724" expanded="true" signature="1793:1839" ph="https://g….github.io" />
-            <marker date="1507777740724" expanded="true" signature="1850:1856" ph="master" />
-            <marker date="1507777740724" expanded="true" signature="1879:1966" ph="nofollow: &lt;2 keys&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1899:1903" ph="true" />
-            <marker date="1507777740724" expanded="true" signature="1906:1966" ph="exclude: &lt;2 items&gt;" />
-            <marker date="1507777740724" expanded="true" signature="1921:1939" ph="www.wonderit.co.kr" />
-            <marker date="1507777740724" expanded="true" signature="1946:1966" ph="www.purepeople.co.kr" />
-            <marker date="1507777740724" expanded="true" signature="1993:2023" ph="sitemap: &lt;1 key&gt;" />
-            <marker date="1507777740724" expanded="true" signature="2012:2023" ph="sitemap.xml" />
+            <marker date="1507777751594" expanded="true" signature="157:753" ph="..." />
+            <marker date="1507777751594" expanded="true" signature="172:301" ph="..." />
+            <marker date="1507777751594" expanded="true" signature="316:445" ph="..." />
+            <marker date="1507777751594" expanded="true" signature="460:593" ph="..." />
+            <marker date="1507777751594" expanded="true" signature="608:736" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
+    <entry file="file://$PROJECT_DIR$/themes/icarus/layout/plugin/google-analytics.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/icarus/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+          <folding>
+            <marker date="1507778284127" expanded="true" signature="8:124" ph="menu: &lt;5 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="36:44" ph="archives" />
+            <marker date="1507778284127" expanded="true" signature="59:69" ph="categories" />
+            <marker date="1507778284127" expanded="true" signature="78:82" ph="tags" />
+            <marker date="1507778284127" expanded="true" signature="92:124" ph="http://ww….kr/##about" />
+            <marker date="1507778284127" expanded="true" signature="138:1120" ph="customize: &lt;8 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="153:255" ph="logo: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="176:180" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="196:198" ph="40" />
+            <marker date="1507778284127" expanded="true" signature="215:217" ph="40" />
+            <marker date="1507778284127" expanded="true" signature="231:255" ph="images/lo…nderit.png" />
+            <marker date="1507778284127" expanded="true" signature="260:622" ph="profile: &lt;7 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="286:290" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="337:367" ph="css/image…circle.png" />
+            <marker date="1507778284127" expanded="true" signature="489:497" ph="WonderIT" />
+            <marker date="1507778284127" expanded="true" signature="520:546" ph="Web Devel…Researcher" />
+            <marker date="1507778284127" expanded="true" signature="565:577" ph="Seoul, Korea" />
+            <marker date="1507778284127" expanded="true" signature="594:622" ph="https://g…/wonderit/" />
+            <marker date="1507778284127" expanded="true" signature="638:651" ph="androidstudio" />
+            <marker date="1507778284127" expanded="true" signature="675:680" ph="right" />
+            <marker date="1507778284127" expanded="true" signature="755:759" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="820:842" ph="css/image…avicon.ico" />
+            <marker date="1507778284127" expanded="true" signature="865:1090" ph="social_links: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="895:922" ph="http://gi…/wonderit/" />
+            <marker date="1507778284127" expanded="true" signature="941:972" ph="https://w…com/won425" />
+            <marker date="1507778284127" expanded="true" signature="992:1024" ph="https://w…com/won425" />
+            <marker date="1507778284127" expanded="true" signature="1043:1090" ph="https://w…m-019104b9" />
+            <marker date="1507778284127" expanded="true" signature="1116:1120" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="1187:1281" ph="widgets: &lt;5 items&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1202:1214" ph="recent_posts" />
+            <marker date="1507778284127" expanded="true" signature="1221:1229" ph="category" />
+            <marker date="1507778284127" expanded="true" signature="1236:1243" ph="archive" />
+            <marker date="1507778284127" expanded="true" signature="1261:1269" ph="tagcloud" />
+            <marker date="1507778284127" expanded="true" signature="1276:1281" ph="links" />
+            <marker date="1507778284127" expanded="true" signature="1292:1462" ph="search: &lt;3 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1313:1317" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="1457:1462" ph="false" />
+            <marker date="1507778284127" expanded="true" signature="1559:2728" ph="comment: &lt;9 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1580:1589" ph="wonder-it" />
+            <marker date="1507778284127" expanded="true" signature="1832:1916" ph="changyan: &lt;2 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="1921:2150" ph="gitment: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2211:2728" ph="valine: &lt;6 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2718:2728" ph="Just Do It" />
+            <marker date="1507778284127" expanded="true" signature="2786:2793" ph="default" />
+            <marker date="1507778284127" expanded="true" signature="2852:3228" ph="plugins: &lt;6 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="2879:2883" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="2929:2933" ph="true" />
+            <marker date="1507778284127" expanded="true" signature="2979:2993" ph="UA-108007570-1" />
+            <marker date="1507778284127" expanded="true" signature="3074:3117" ph="WQU-Q_cW4…v6S1OHFSnk" />
+            <marker date="1507778284127" expanded="true" signature="3223:3228" ph="false" />
+            <marker date="1507778284127" expanded="true" signature="3269:3453" ph="miscellaneous: &lt;2 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3288:3398" ph="open_graph: &lt;4 keys&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3403:3453" ph="links: &lt;1 key&gt;" />
+            <marker date="1507778284127" expanded="true" signature="3428:3453" ph="http://ww…erit.co.kr" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="99" column="6" lean-forward="false" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
           <folding />
         </state>
       </provider>

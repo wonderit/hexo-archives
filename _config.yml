@@ -91,3 +91,10 @@ nofollow:
 # sitemap auto generator
 sitemap:
     path: sitemap.xml
+
+# rss feed auto generator
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+  hub:
