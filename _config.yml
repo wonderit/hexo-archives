@@ -87,3 +87,7 @@ nofollow:
   exclude:
     - www.wonderit.co.kr
     - www.purepeople.co.kr
+
+# sitemap auto generator
+sitemap:
+    path: sitemap.xml
