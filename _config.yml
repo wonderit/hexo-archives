@@ -80,3 +80,10 @@ deploy:
   type: git
   repo: https://github.com/wonderit/wonderit.github.io
   branch: master
+
+# Hexo Auto Nofollow
+nofollow:
+  enable: true
+  exclude:
+    - www.wonderit.co.kr
+    - www.purepeople.co.kr

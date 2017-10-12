@@ -13,6 +13,9 @@ thumbnail: /images/logo_icarus.png
 ---
 
 ![](/images/logo_icarus.png "")
+{% codeblock %}
+alert('Hello World!');
+{% endcodeblock %}
 
 [Hexo](https://hexo.io/), [Github Pages](https://pages.github.com/)를 이용해서 블로그를 새로 만들었습니다.
 
